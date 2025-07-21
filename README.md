@@ -2,7 +2,7 @@
 
 A powerful, interactive chatbot built with **LangChain**, **Groq's LLM**, and **Streamlit**. Query your own database—either the bundled SQLite demo (`student.db`) or any MySQL instance—using plain English. Powered by generative AI, the assistant converts your question into SQL, runs it, and replies conversationally, complete with real-time agent reasoning.
 
-**App Link**: _[Deploy on Streamlit Cloud]_
+**App Link**: _[SQL Database Chatbot](https://sql-database-chatbot-ninyrmtqdedgeybtrlg6v9.streamlit.app)_
 
 ## 🚀 Features
 
